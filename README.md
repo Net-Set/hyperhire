@@ -87,3 +87,5 @@ Solid Free is 100% free and open-source, feel free to use with your personal and
 If you like the template, please star this repository to inspire the team to create more stuff like this and reach more users like you!
 
 ### ✨ Browse and Download - Best Free [Next.js Templates](https://nextjstemplates.com/templates)
+![screencapture-localhost-3000-2024-11-16-01_01_44](https://github.com/user-attachments/assets/9431bfcd-c009-4cce-9a14-7f63e8ba27eb)
+
